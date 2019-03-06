@@ -6,4 +6,9 @@ public class test {
 		System.out.println("Are you OK!");
 	}
 
+	public void put() {
+		String out = "asd";
+		System.out.println(out);
+	}
+
 }
